@@ -1,0 +1,30 @@
+MSSV: 19139082 Fullname: Truong Nguyen Huy Address: 649/658, Vo Thi Sau Street, 10 Ward, 3, Ho Chi Minh City Telnum: 05681259270 Birth: 17/03/1986 Email: tnhuy@yahoo.com GPA: 2.54
+MSSV: 06115511 Fullname: Truong Phuc Toan Address: 514/40/122, Le Van Linh Street, 4 Ward, 4, Ho Chi Minh City Telnum: 05628085284 Birth: 25/12/1985 Email: tptoan@twitter.com GPA: 1.41
+MSSV: 20128146 Fullname: Ho Dang Thinh Address: 246/105/497, Bui Vien Street, Da Kao Ward, 1, Ho Chi Minh City Telnum: 05657015981 Birth: 14/04/2001 Email: hdthinh@yahoo.com GPA: 4.0
+MSSV: 16175007 Fullname: Vu Ngoc Dat Address: 838/439/674, Ton That Thuyet Street, 2 Ward, 4, Ho Chi Minh City Telnum: 09641617268 Birth: 06/01/1997 Email: vndat@twitter.com GPA: 3.82
+MSSV: 21121118 Fullname: Pham Phuc Tra Address: 764, Ton That Thuyet Street, 3 Ward, 4, Ho Chi Minh City Telnum: 03546925183 Birth: 04/08/1997 Email: pptra@yahoo.com GPA: 1.85
+MSSV: 10138656 Fullname: Truong Van Tra Address: 742/726, An Phu Street, An Khanh Ward, 2, Ho Chi Minh City Telnum: 09277335884 Birth: 26/03/1986 Email: tvtra@gmail.com GPA: 2.46
+MSSV: 13121521 Fullname: Truong Ngoc Chanh Address: 268/227/342, Yet Kieu Street, 8 Ward, 5, Ho Chi Minh City Telnum: 09668555776 Birth: 22/06/1994 Email: tnchanh@github.com GPA: 1.82
+MSSV: 19155476 Fullname: Vu Quoc Khoi Address: 963/363/524, Hai Ba Trung Street, Nguyen Thai Binh Ward, 1, Ho Chi Minh City Telnum: 08135708265 Birth: 27/10/2001 Email: vqkhoi@apple.com GPA: 2.63
+MSSV: 20119657 Fullname: Bui Nguyen Bao Address: 4, Song Hanh Street, An Khanh Ward, 2, Ho Chi Minh City Telnum: 03612976180 Birth: 25/09/1996 Email: bnbao@twitter.com GPA: 1.97
+MSSV: 15127129 Fullname: Duong Nguyen Tuan Address: 147/893, Dong Khoi Street, Nguyen cu Trinh Ward, 1, Ho Chi Minh City Telnum: 08375345857 Birth: 14/01/1996 Email: dntuan@yahoo.com GPA: 3.75
+MSSV: 20153017 Fullname: Vo Phuc Lam Address: 726/648, Nguyen Trai Street, 1 Ward, 5, Ho Chi Minh City Telnum: 08494655848 Birth: 10/03/1998 Email: vplam@facebook.com GPA: 3.7
+MSSV: 12168043 Fullname: Do Phuc Dat Address: 99/202/754, Le Thach Street, 6 Ward, 4, Ho Chi Minh City Telnum: 03299341296 Birth: 25/04/1994 Email: dpdat@microsoft.com GPA: 0.31
+MSSV: 20147369 Fullname: Vo Quoc Thinh Address: 395, Truong Quyen Street, 2 Ward, 3, Ho Chi Minh City Telnum: 03666459264 Birth: 20/11/2001 Email: vqthinh@yahoo.com GPA: 0.33
+MSSV: 04118537 Fullname: Vo Huu Tu Address: 685, Le Van Linh Street, 9 Ward, 4, Ho Chi Minh City Telnum: 05889421908 Birth: 01/03/1983 Email: vhtu@apple.com GPA: 4.0
+MSSV: 20163713 Fullname: Dinh Phuc Huy Address: 886, Bui Vien Street, Nguyen cu Trinh Ward, 1, Ho Chi Minh City Telnum: 08636157569 Birth: 20/02/1990 Email: dphuy@gmail.com GPA: 1.33
+MSSV: 13138847 Fullname: Dang Phi Ba Address: 850/805, Nguyen Cu Street, Thao Dien Ward, 2, Ho Chi Minh City Telnum: 08803215692 Birth: 24/06/1995 Email: dpba@yahoo.com GPA: 3.65
+MSSV: 12130129 Fullname: Ho Quoc Tu Address: 510, Nguyen Van Giap Street, Binh Trung Dong Ward, 2, Ho Chi Minh City Telnum: 09296733898 Birth: 09/04/1994 Email: hqtu@apple.com GPA: 1.49
+MSSV: 17149452 Fullname: Do Phi Bach Address: 761/4/1, Dong Khoi Street, Nguyen cu Trinh Ward, 1, Ho Chi Minh City Telnum: 09487396718 Birth: 21/04/1993 Email: dpbach@twitter.com GPA: 4.0
+MSSV: 13163702 Fullname: Dinh Huu Bao Address: 897/229/53, Nguyen Cu Street, Binh An Ward, 2, Ho Chi Minh City Telnum: 09745047248 Birth: 08/07/1995 Email: dhbao@yahoo.com GPA: 3.20
+MSSV: 21154719 Fullname: Vo Phuc Khoi Address: 32/673/382, Truong Quyen Street, 3 Ward, 3, Ho Chi Minh City Telnum: 05892276033 Birth: 25/10/2002 Email: vpkhoi@apple.com GPA: 1.13
+MSSV: 06164918 Fullname: Tran Huu Ba Address: 344/8, Hai Ba Trung Street, Da Kao Ward, 1, Ho Chi Minh City Telnum: 07770212761 Birth: 13/12/1987 Email: thba@apple.com GPA: 2.82
+MSSV: 20155655 Fullname: Pham Van An Address: 976/534/128, Khanh Hoi Street, 4 Ward, 4, Ho Chi Minh City Telnum: 09627206734 Birth: 07/07/1998 Email: pvan@yahoo.com GPA: 1.80
+MSSV: 12119732 Fullname: Ho Quoc Bach Address: 885, Le Quoc Hung Street, 8 Ward, 4, Ho Chi Minh City Telnum: 08615486613 Birth: 10/10/1990 Email: hqbach@facebook.com GPA: 4.0
+MSSV: 18178619 Fullname: Duong Ngoc Ba Address: 465, Le Van Sy Street, 9 Ward, 3, Ho Chi Minh City Telnum: 09266758981 Birth: 06/05/1983 Email: dnba@apple.com GPA: 2.32
+MSSV: 09159347 Fullname: Dinh Van Khoi Address: 283/883, Le Van Sy Street, 4 Ward, 3, Ho Chi Minh City Telnum: 05676525698 Birth: 10/05/1991 Email: dvkhoi@twitter.com GPA: 4.0
+MSSV: 15154405 Fullname: Bui Phuc Huy Address: 38/529, Dong Khoi Street, Nguyen cu Trinh Ward, 1, Ho Chi Minh City Telnum: 09482313102 Birth: 17/10/1986 Email: bphuy@twitter.com GPA: 3.31
+MSSV: 04155180 Fullname: Bui Quoc An Address: 812/21/24, Ton That Thuyet Street, 4 Ward, 4, Ho Chi Minh City Telnum: 07975142158 Birth: 02/10/1985 Email: bqan@github.com GPA: 4.0
+MSSV: 11154674 Fullname: Nguyen Ngoc Thinh Address: 851, Truong Quyen Street, 5 Ward, 3, Ho Chi Minh City Telnum: 09188652339 Birth: 07/01/1984 Email: nnthinh@gmail.com GPA: 2.73
+MSSV: 12146102 Fullname: Phan Huu Anh Address: 28/486, Ton That Thuyet Street, 6 Ward, 4, Ho Chi Minh City Telnum: 07900813458 Birth: 14/11/1983 Email: phanh@microsoft.com GPA: 0.50
+MSSV: 20149580 Fullname: Ngo Quoc Khoi Address: 10/488/664, Ton That Thuyet Street, 9 Ward, 4, Ho Chi Minh City Telnum: 09764446591 Birth: 23/06/2002 Email: nqkhoi@gmail.com GPA: 1.8
